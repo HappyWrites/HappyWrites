@@ -1,6 +1,6 @@
 <h1 align="center">Привет! Спасибо, что зашли. Меня зовут Настя</h1> 
 <h3 align="left"> Я начинающий frontend developer, но уже не понаслышке знакома с:</h3>
-<p align="center">
+<p>
   ⚡ Javascript
   ⚡ React  
   ⚡ HTML
@@ -10,8 +10,7 @@
   ⚡ GIT
   ⚡ API
   ⚡ Webpack
-  ⚡ ООП
-  
+  ⚡ ООП  
   ⚡ Figma  
   </p>
   
