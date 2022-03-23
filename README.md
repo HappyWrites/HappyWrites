@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center">Привет! Спасибо, что зашли. Меня зовут Настя</h1> 
+<h3 align="left"> Я начинающий frontend developer, но уже не понаслышке знакома с:</h3>
+<p align="center">⚡ HTML
+  ⚡ CSS
+  ⚡ адаптивная верстка
+  ⚡ Javascript
+  ⚡ DOM
+  ⚡ GIT
+  ⚡ API
+  ⚡ Webpack
+  ⚡ ООП
+  ⚡ React  
+  ⚡ Figma  
+  </p>
+  
+###Буду рада любому сотрудничеству. Меня можно найти: [Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) @NazarovaAsyanya
 
-<!--
-**HappyWrites/HappyWrites** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>Улыбнитесь! :) 
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</p>
