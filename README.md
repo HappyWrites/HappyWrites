@@ -2,7 +2,8 @@
 <h3 align="left"> Я начинающий frontend developer, но уже не понаслышке знакома с:</h3>
 <p>
   ⚡ Javascript
-  ⚡ React  
+  ⚡ React.js
+  ⚡ Vue.js  
   ⚡ HTML
   ⚡ CSS
   ⚡ адаптивная верстка  
